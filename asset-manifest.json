@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FEW-1.2-Final-Exam/static/css/main.7f30589c.chunk.css",
+    "main.js": "/FEW-1.2-Final-Exam/static/js/main.e9c1c2e5.chunk.js",
+    "main.js.map": "/FEW-1.2-Final-Exam/static/js/main.e9c1c2e5.chunk.js.map",
+    "runtime-main.js": "/FEW-1.2-Final-Exam/static/js/runtime-main.9cb8db90.js",
+    "runtime-main.js.map": "/FEW-1.2-Final-Exam/static/js/runtime-main.9cb8db90.js.map",
+    "static/js/2.71e6cf0e.chunk.js": "/FEW-1.2-Final-Exam/static/js/2.71e6cf0e.chunk.js",
+    "static/js/2.71e6cf0e.chunk.js.map": "/FEW-1.2-Final-Exam/static/js/2.71e6cf0e.chunk.js.map",
+    "static/js/3.df610f22.chunk.js": "/FEW-1.2-Final-Exam/static/js/3.df610f22.chunk.js",
+    "static/js/3.df610f22.chunk.js.map": "/FEW-1.2-Final-Exam/static/js/3.df610f22.chunk.js.map",
+    "index.html": "/FEW-1.2-Final-Exam/index.html",
+    "static/css/main.7f30589c.chunk.css.map": "/FEW-1.2-Final-Exam/static/css/main.7f30589c.chunk.css.map",
+    "static/js/2.71e6cf0e.chunk.js.LICENSE.txt": "/FEW-1.2-Final-Exam/static/js/2.71e6cf0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb8db90.js",
+    "static/js/2.71e6cf0e.chunk.js",
+    "static/css/main.7f30589c.chunk.css",
+    "static/js/main.e9c1c2e5.chunk.js"
+  ]
+}
